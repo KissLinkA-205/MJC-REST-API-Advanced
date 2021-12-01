@@ -1,4 +1,4 @@
-<h2 align="center"> 🎓 module #3. REST API Advanced</h2>
+<h2 align="center"> 🎓 MJC school : EPAM Systems<br/>Minsk, Belarus (Минск, Беларусь)<br/>module #3. REST API Advanced</h2>
 
 <h3>🎁 Materials</h3>
 <ol>
